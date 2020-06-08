@@ -12,7 +12,7 @@ import org.aspectj.lang.annotation.Pointcut;
 
 /**
  * 切面类
- * @author lfy
+ * @author xgx
  * 
  * @Aspect： 告诉Spring当前类是一个切面类
  *

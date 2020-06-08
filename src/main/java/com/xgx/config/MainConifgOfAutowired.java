@@ -50,7 +50,7 @@ import com.xgx.dao.BookDao;
  * 			ApplicationContextAware==¡·ApplicationContextAwareProcessor£»
  * 	
  * 		
- * @author lfy
+ * @author xgx
  *
  */
 @Configuration
